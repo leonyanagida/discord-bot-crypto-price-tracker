@@ -23,7 +23,7 @@ Step 3:
 
 ## Run the bot 24/7
 
-- Either leave your computer on forever or host the bot for free on Heroku or Vercel.
+- Either leave your computer on forever or host the bot for free on Heroku.
 
 ---
 
